@@ -52,5 +52,5 @@ In data communication, ensuring the integrity of transmitted information is cruc
 
 ## Author
 
-- [Hasan Zaidi](https://github.com/hasanzaidi)
+- [Hasan Zaidi](https://github.com/hasanzaidi1)
 
