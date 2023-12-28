@@ -10,8 +10,8 @@ use std::io::Read;
 
 fn main() {
   
-  let mut file = std::fs::File::open("Homewokr #3 - Decoding Text.txt").unwrap();
-  let mut file2 = std::fs::File::open("Homework #3 - Encoding Text.txt").unwrap();
+  let mut file = std::fs::File::open("Decoding Text.txt").unwrap();
+  let mut file2 = std::fs::File::open("Encoding Text.txt").unwrap();
   let mut contents = String::new();
   let mut contents2 = String::new();
   file.read_to_string(&mut contents).unwrap();
