@@ -39,7 +39,7 @@ In data communication, ensuring the integrity of transmitted information is cruc
 
 ## Usage
 
-1. The program reads data from input files (`Homewokr #3 - Decoding Text.txt` and `Homework #3 - Encoding Text.txt`).
+1. The program reads data from input files (`Decoding Text.txt` and `Encoding Text.txt`).
 
 2. It converts the data into binary and calculates Hamming Code parity bits.
 
@@ -47,8 +47,8 @@ In data communication, ensuring the integrity of transmitted information is cruc
 
 ## File Structure
 - `main.rs` - Source code for Hamming Code algorithm.
-- `Homewokr #3 - Decoding Text.txt`: Input file for decoding text.
-- `Homework #3 - Encoding Text.txt`: Input file for encoding text.
+- `Decoding Text.txt`: Input file for decoding text.
+- `Encoding Text.txt`: Input file for encoding text.
 
 ## Author
 
